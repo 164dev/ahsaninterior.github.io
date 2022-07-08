@@ -59,7 +59,7 @@ h1, h2, h3, h4, h5, h6
     font-family: 'arial';
 }
 .navbar-default .navbar-brand {
-    color:#f5884e;
+    color:rgb(8, 104, 104);
 	font-size: 24px;
 	text-transform: uppercase;
 	font-weight: 700;
@@ -71,7 +71,7 @@ h1, h2, h3, h4, h5, h6
     text-transform: uppercase;
 }
 .navbar-default .navbar-nav > li > a {
-    color: #fff;
+    color: rgb(29, 162, 172);
     padding: 0px 20px;
     text-transform: uppercase;
 }
@@ -388,7 +388,7 @@ a, a:hover
 }
 @media (min-width: 20px) and (max-width: 450px){
     .navbar-toggle:hover, .navbar-toggle{
-        background-color: #fff;
+        background-color: rgb(8, 104, 104);
         color: #000;
     }
     .navbar-toggle{
